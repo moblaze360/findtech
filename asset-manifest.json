@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coolbots/static/css/main.9093fc7b.chunk.css",
+    "main.js": "/coolbots/static/js/main.0f79254e.chunk.js",
+    "main.js.map": "/coolbots/static/js/main.0f79254e.chunk.js.map",
+    "runtime-main.js": "/coolbots/static/js/runtime-main.60618dbb.js",
+    "runtime-main.js.map": "/coolbots/static/js/runtime-main.60618dbb.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/coolbots/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d398c6c7.chunk.js": "/coolbots/static/js/2.d398c6c7.chunk.js",
+    "static/js/2.d398c6c7.chunk.js.map": "/coolbots/static/js/2.d398c6c7.chunk.js.map",
+    "index.html": "/coolbots/index.html",
+    "precache-manifest.97028cd042d27b76156d24b7af435a47.js": "/coolbots/precache-manifest.97028cd042d27b76156d24b7af435a47.js",
+    "service-worker.js": "/coolbots/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/coolbots/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.9093fc7b.chunk.css.map": "/coolbots/static/css/main.9093fc7b.chunk.css.map",
+    "static/js/2.d398c6c7.chunk.js.LICENSE.txt": "/coolbots/static/js/2.d398c6c7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/coolbots/static/media/batmfo__.e6e10fdf.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60618dbb.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.d398c6c7.chunk.js",
+    "static/css/main.9093fc7b.chunk.css",
+    "static/js/main.0f79254e.chunk.js"
+  ]
+}
